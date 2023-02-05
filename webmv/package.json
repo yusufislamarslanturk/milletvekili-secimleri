@@ -1,0 +1,17 @@
+{
+  "dependencies": {
+    "msnodesqlv8": "^2.7.0",
+    "mssql": "^9.0.1"
+  },
+  "name": "html",
+  "version": "1.0.0",
+  "main": "svg-turkiye-haritasi.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
